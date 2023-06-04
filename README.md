@@ -13,8 +13,8 @@ This project aims to implement a machine-learning model to learn and predict Cat
 - Evaluation of Models.
 
 ### Notes:
-View source code [here](https://github.com/chow-sheng-yang/COE_Prices/blob/main/main/script.ipynb)
-Ensure to have the following dependencies installed before running `script.ipynb`:
+<p>View source code [here](https://github.com/chow-sheng-yang/COE_Prices/blob/main/main/script.ipynb)
+<br>Ensure to have the following dependencies installed before running `script.ipynb`:</p>
 Dependency    | Version
 ------------- | -------------
 python        | 3.9.16
