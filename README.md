@@ -13,8 +13,10 @@ This project aims to implement a machine-learning model to learn and predict Cat
 - Evaluation of Models.
 
 ### Notes:
-<p>View source code [here](https://github.com/chow-sheng-yang/COE_Prices/blob/main/main/script.ipynb)
-<br>Ensure to have the following dependencies installed before running `script.ipynb`:</p>
+View source code [here](https://github.com/chow-sheng-yang/COE_Prices/blob/main/main/script.ipynb)
+
+Ensure to have the following dependencies installed before running `script.ipynb`:
+
 Dependency    | Version
 ------------- | -------------
 python        | 3.9.16
@@ -26,7 +28,9 @@ scipy         | 1.10.0
 scikit-learn. | 1.2.2
 statsmodels   | 0.13.15
 
-* __Authors: Chow Sheng Yang, Foo Kai En, Baek Dong Won, Yang Jing, Teo Ke En__
-* This project is a completed coursework for DBA3803: Predictive Analytics for Business (National University of Singapore)
-* References: Kang, T. (2023). Coe woes: Cost of owning a car in Singapore reaches record highs. Yahoo! News. Retrieved from https://sg.news.yahoo.com/singapore-coe-prices-cars-break-record-second-time-row-102724770.html
+__Authors: Chow Sheng Yang, Foo Kai En, Baek Dong Won, Yang Jing, Teo Ke En__
+
+This project is a completed coursework for DBA3803: Predictive Analytics for Business (National University of Singapore)
+
+References: Kang, T. (2023). Coe woes: Cost of owning a car in Singapore reaches record highs. Yahoo! News. Retrieved from https://sg.news.yahoo.com/singapore-coe-prices-cars-break-record-second-time-row-102724770.html
 
