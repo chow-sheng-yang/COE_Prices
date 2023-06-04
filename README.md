@@ -15,14 +15,16 @@ This project aims to implement a machine-learning model to learn and predict Cat
 ### Notes:
 View source code [here](https://github.com/chow-sheng-yang/COE_Prices/blob/main/main/script.ipynb)
 Ensure to have the following dependencies installed before running `script.ipynb`:
-python==3.9.16
-numpy==1.23.5
-pandas==1.5.3
-seaborn==0.12.2
-matplotlib==3.7.0
-scipy==1.10.0
-scikit-learn==1.2.2
-statsmodels==0.13.5
+Dependency    | Version
+------------- | -------------
+python        | 3.9.16
+numpy         | 1.23.5
+pandas        | 1.5.3
+seaborn       | 0.12.2
+matplotlib    | 3.7.0
+scipy         | 1.10.0
+scikit-learn. | 1.2.2
+statsmodels   | 0.13.15
 
 * __Authors: Chow Sheng Yang, Foo Kai En, Baek Dong Won, Yang Jing, Teo Ke En__
 * This project is a completed coursework for DBA3803: Predictive Analytics for Business (National University of Singapore)
