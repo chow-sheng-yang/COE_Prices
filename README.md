@@ -9,24 +9,15 @@ This project aims to implement a machine-learning model to learn and predict Cat
 ### Methodology:
 - Data Preprocessing;
 - Supervised Learning techniques: Regularised Regression (ElasticNet), Time-Series Decomposition and K-Nearest Neighbors Classification;
-- Model Training and Hyperparameter Testing;
-- Evaluation of Models.
+- Model Training and Hyperparameter Tuning (Grid Search);
+- Evaluation of Model Performance
 
 ### Notes:
 View source code [here](https://github.com/chow-sheng-yang/COE_Prices/blob/main/main/script.ipynb)
 
-Ensure to have the following dependencies installed before running `script.ipynb`:
+Activate a virtual environment of your choice and run this command to install `requirements.txt`:
 
-Dependency    | Version
-------------- | -------------
-python        | 3.9.16
-numpy         | 1.23.5
-pandas        | 1.5.3
-seaborn       | 0.12.2
-matplotlib    | 3.7.0
-scipy         | 1.10.0
-scikit-learn. | 1.2.2
-statsmodels   | 0.13.15
+`pip install -r requirements.txt`
 
 __Authors: Chow Sheng Yang, Foo Kai En, Baek Dong Won, Yang Jing, Teo Ke En__
 
